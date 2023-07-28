@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HSAINI Abir</h1>
 <div align="center"> <img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"> </div>
-<h3 align="center">A passionate devops from morocco</h3>
+<h3 align="center">I am a third-year Software Engineering student at the National Institute of Posts and Telecommunications (INPT) in Morocco.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirhsaini&label=Profile%20views&color=0e75b6&style=flat" alt="abirhsaini" /> </p>
 
